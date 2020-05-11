@@ -10,4 +10,6 @@ Steps to Use:
 6. Select Web/Mobile/Tab
 7. Publish 
 
-![Screenshot](Screenshot(72).png)
+<p align="center">
+   <img src="https://github.com/chethankille/Todays-Date-PCF-Control/blob/master/Screenshot%20(72).png">
+</p>
